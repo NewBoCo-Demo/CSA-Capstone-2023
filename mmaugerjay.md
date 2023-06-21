@@ -1,4 +1,7 @@
 # Meg mauger
 
-I'd rather be at the beach.
+This is all new to me.
 
+😎
+
+Loving having a break from school.
