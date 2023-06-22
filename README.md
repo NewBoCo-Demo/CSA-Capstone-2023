@@ -13,6 +13,6 @@ June 21, 2023
 # Indiana
 
 ## Rural
-
+[@joestcyn](joestcyn.md)
 ## Urban
 
