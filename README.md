@@ -9,7 +9,7 @@ June 21, 2023
 
 ## Urban
 - @dahlbyk
-- [@kgeers3]
+- [@kgeers3] (kgeers3.md)
 
 # Indiana
 
