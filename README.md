@@ -13,6 +13,6 @@
 # Indiana
 
 ## Rural
-
+[@joestcyn](joestcyn.md)
 ## Urban
 
