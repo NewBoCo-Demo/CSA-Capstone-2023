@@ -13,6 +13,8 @@
 # Indiana
 
 ## Rural
+- @mmaugerjay
+- [@mmaugerjay] (mmaugerjay.md)
 
 ## Urban
 
