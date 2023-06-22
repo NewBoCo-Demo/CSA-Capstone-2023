@@ -1,7 +1,7 @@
 # CSA-Capstone-2023
 
-Iowa + Indiana = ❤️
-June 21, 2023
+- Iowa + Indiana = ❤️
+- June 21, 2023
 
 # Iowa
 
@@ -9,6 +9,7 @@ June 21, 2023
 
 ## Urban
 - @dahlbyk
+- [@dahlbys](dahlbys.md)
 - [@timwalljasper](timwalljasper.md)
 
 # Indiana
