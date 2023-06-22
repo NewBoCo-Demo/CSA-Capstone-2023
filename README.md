@@ -6,7 +6,7 @@
 # Iowa
 
 ## Rural
-
+-[@joseymour](joseymour.md)
 ## Urban
 - @dahlbyk
 - [@dahlbys](dahlbys.md)
