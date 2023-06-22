@@ -6,7 +6,7 @@ June 21, 2023
 # Iowa
 
 ## Rural
-
+- @Scrawford22
 ## Urban
 - @dahlbyk
 
