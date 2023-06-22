@@ -8,7 +8,7 @@
 ## Rural
 
 ## Urban
-- @dahlbyk
+- [@dahlbyk](./dahlbyk.md)
 
 # Indiana
 
