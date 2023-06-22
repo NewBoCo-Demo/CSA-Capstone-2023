@@ -13,6 +13,8 @@ June 21, 2023
 # Indiana
 
 ## Rural
+- @mmaugerjay
+- [@mmaugerjay] (mmaugerjay.md)
 
 ## Urban
 
